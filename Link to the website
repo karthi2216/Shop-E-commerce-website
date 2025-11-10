@@ -1,2 +1,14 @@
 Link to the website:
 https://kyn3g6md3hbow.mocha.app/
+
+prompt used to create the website:
+Build an E-Commerce Website that allows users to:
+Explore productsView product detailsManage a shopping cart 
+(basic state management)Requirements:Clean and responsive UILightweight backend 
+for data operationsDeliverables:Technical architecture documentationFull code
+basePrompts used for generating tech documentation and code baseRecommended Tech Stack:
+Frontend: React.js (or Next.js), React Router for navigationBackend: Node.js with Express.jsDatabase:
+MongoDB AtlasPlease generate:Detailed technical architecture outlining frontend, backend, 
+and database componentsWell-organized folder structure and code samples for each layer 
+(React components, Express API routes, MongoDB models)Implementation of shopping cart 
+state managementUser prompts/instructions to generate further documentation or extend features
